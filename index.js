@@ -1,4 +1,6 @@
 // code away!
+require('dotenv').config();
+
 const express = require('express');
 
 const server = require('./server.js');
